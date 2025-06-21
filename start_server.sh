@@ -4,4 +4,4 @@ pkill -f app.py || true
 
 cd /home/ubuntu/my-flask-app
 
-nohup python3 app.py > app.log 2>&1 &
+nohup python3 app.py > /home/ubuntu/app.log 2>&1 &
