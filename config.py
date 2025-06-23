@@ -4,4 +4,4 @@ databasehost = "database-1-aws-devops-instance-1.czwkaqmi6kv6.us-east-1.rds.amaz
 duser = "awsdevops"
 dpass = "awsdevops123"
 s3database = "intellipaat"
-kapp = "http://18.207.189.210:30080/"
+kapp = "http://13.221.21.5:30080/"
